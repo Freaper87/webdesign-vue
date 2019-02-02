@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'gilroy';
+  src: url('./fonts/gilroy-extrabold.otf');
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'gilroy';
+  src: url('./fonts/gilroy-light.otf');
+  font-weight: lighter;
+}
+@font-face {
+  font-family: 'Raleway Regular';
+  src: url('./fonts/gilroy-extrabold.otf');
+}
